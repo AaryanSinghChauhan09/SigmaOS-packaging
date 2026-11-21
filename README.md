@@ -1,6 +1,6 @@
-# SigmaOS-arch-packaging
+# SigmaOS-packaging
 
-SigmaOS SigmaOS-arch-packaging component
+SigmaOS SigmaOS-packaging component
 
 - **Category:** Components
 - **Engine:** component

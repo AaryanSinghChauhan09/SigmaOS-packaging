@@ -1,4 +1,4 @@
-use arch_packaging::Component;
+use sigmaos_packaging::Component;
 
 #[test]
 fn test_component_new_aaa() {
